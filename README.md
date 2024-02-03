@@ -1,2 +1,2 @@
-# mic
-inteligent-systems
+# MIC
+intelligent-systems
